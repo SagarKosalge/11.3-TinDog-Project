@@ -30,3 +30,7 @@
   display: flex;
   justify-content: space-between;
 }
+.dog-profile{
+  border-radius: 50%;
+  height: 100px;
+}
